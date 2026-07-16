@@ -1,0 +1,9 @@
+{
+  "name": "ses-email-sender",
+  "version": "1.0.0",
+  "description": "Lambda gửi email qua SES, trigger từ SQS",
+  "main": "index.js",
+  "dependencies": {
+    "@aws-sdk/client-ses": "^3.600.0"
+  }
+}
