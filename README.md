@@ -25,7 +25,7 @@ Trong `terraform/main.tf`, sửa biến `runtime`:
 
 ```hcl
 variable "runtime" {
-  default = "python3.12"   # hoặc "nodejs20.x"
+  default = "python3.14"   # hoặc "nodejs24.x"
 }
 ```
 
