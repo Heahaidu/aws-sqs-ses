@@ -2,4 +2,3 @@ terraform/.terraform*
 terraform/terraform.tfstate
 terraform/*.terraform.*
 terraform/*.tfstate*
-lambda-nodejs.zip
